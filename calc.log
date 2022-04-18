@@ -1,0 +1,46 @@
+2022-04-18T15:43:45,592 [Calc.java] [INFO] calc.Calc [ADDITION] - 2.0, 2.0
+2022-04-18T15:43:45,596 [Calc.java] [INFO] calc.Calc [RESULT - ADDITION] - 4.0
+2022-04-18T15:43:45,596 [Calc.java] [INFO] calc.Calc [ADDITION] - 2.1, 3.2
+2022-04-18T15:43:45,596 [Calc.java] [INFO] calc.Calc [RESULT - ADDITION] - 5.300000000000001
+2022-04-18T15:43:45,597 [Calc.java] [INFO] calc.Calc [DIVISION] - 2.0, 2.0
+2022-04-18T15:43:45,597 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - 1.0
+2022-04-18T15:43:45,597 [Calc.java] [INFO] calc.Calc [DIVISION] - 0.0, 0.0
+2022-04-18T15:43:45,598 [Calc.java] [ERROR] calc.Calc [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+2022-04-18T15:43:45,598 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - NaN
+2022-04-18T15:43:45,598 [Calc.java] [INFO] calc.Calc [DIVISION] - 1.0, 0.0
+2022-04-18T15:43:45,598 [Calc.java] [ERROR] calc.Calc [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+2022-04-18T15:43:45,598 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - Infinity
+2022-04-18T15:43:45,598 [Calc.java] [INFO] calc.Calc [DIVISION] - -1.0, 0.0
+2022-04-18T15:43:45,599 [Calc.java] [ERROR] calc.Calc [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+2022-04-18T15:43:45,599 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - -Infinity
+2022-04-18T15:43:45,600 [Calc.java] [INFO] calc.Calc [MULTIPLICATION] - 2.0, 2.0
+2022-04-18T15:43:45,601 [Calc.java] [INFO] calc.Calc [RESULT - MULTIPLICATION] - 4.0
+2022-04-18T15:43:45,601 [Calc.java] [INFO] calc.Calc [MULTIPLICATION] - 2.1, 3.2
+2022-04-18T15:43:45,601 [Calc.java] [INFO] calc.Calc [RESULT - MULTIPLICATION] - 6.720000000000001
+2022-04-18T15:43:45,602 [Calc.java] [INFO] calc.Calc [SUBTRACTION] - 2.0, 2.0
+2022-04-18T15:43:45,602 [Calc.java] [INFO] calc.Calc [RESULT - SUBTRACTION] - 0.0
+2022-04-18T15:43:45,602 [Calc.java] [INFO] calc.Calc [SUBTRACTION] - 2.1, 3.2
+2022-04-18T15:43:45,602 [Calc.java] [INFO] calc.Calc [RESULT - SUBTRACTION] - -1.1
+2022-04-18T15:43:45,603 [Calc.java] [INFO] calc.Calc [ADDITION] - 2.0, 2.0
+2022-04-18T15:43:45,603 [Calc.java] [INFO] calc.Calc [RESULT - ADDITION] - 4.0
+2022-04-18T15:43:45,604 [Calc.java] [INFO] calc.Calc [ADDITION] - 2.1, 3.2
+2022-04-18T15:43:45,604 [Calc.java] [INFO] calc.Calc [RESULT - ADDITION] - 5.300000000000001
+2022-04-18T15:43:45,604 [Calc.java] [INFO] calc.Calc [DIVISION] - 2.3, 1.3
+2022-04-18T15:43:45,604 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - 1.769230769230769
+2022-04-18T15:43:45,605 [Calc.java] [INFO] calc.Calc [DIVISION] - 0.0, 0.0
+2022-04-18T15:43:45,605 [Calc.java] [ERROR] calc.Calc [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+2022-04-18T15:43:45,605 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - NaN
+2022-04-18T15:43:45,605 [Calc.java] [INFO] calc.Calc [DIVISION] - 1.0, 0.0
+2022-04-18T15:43:45,605 [Calc.java] [ERROR] calc.Calc [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+2022-04-18T15:43:45,606 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - Infinity
+2022-04-18T15:43:45,606 [Calc.java] [INFO] calc.Calc [DIVISION] - -1.0, 0.0
+2022-04-18T15:43:45,606 [Calc.java] [ERROR] calc.Calc [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+2022-04-18T15:43:45,606 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - -Infinity
+2022-04-18T15:43:45,606 [Calc.java] [INFO] calc.Calc [SUBTRACTION] - 2.0, 2.0
+2022-04-18T15:43:45,606 [Calc.java] [INFO] calc.Calc [RESULT - SUBTRACTION] - 0.0
+2022-04-18T15:43:45,607 [Calc.java] [INFO] calc.Calc [SUBTRACTION] - 2.1, 3.2
+2022-04-18T15:43:45,607 [Calc.java] [INFO] calc.Calc [RESULT - SUBTRACTION] - -1.1
+2022-04-18T15:43:45,607 [Calc.java] [INFO] calc.Calc [MULTIPLICATION] - 2.0, 2.0
+2022-04-18T15:43:45,608 [Calc.java] [INFO] calc.Calc [RESULT - MULTIPLICATION] - 4.0
+2022-04-18T15:43:45,608 [Calc.java] [INFO] calc.Calc [MULTIPLICATION] - 2.1, 3.2
+2022-04-18T15:43:45,608 [Calc.java] [INFO] calc.Calc [RESULT - MULTIPLICATION] - 6.720000000000001
