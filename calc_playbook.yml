@@ -1,0 +1,9 @@
+---
+- name: Pull Docker Image
+  hosts: all
+  tasks:
+    - name: Pull Docker Image
+      docker_image:
+        name: sal2701/calc:latest
+        source: pull
+        force_source: yes
