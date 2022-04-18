@@ -44,3 +44,49 @@
 2022-04-18T15:43:45,608 [Calc.java] [INFO] calc.Calc [RESULT - MULTIPLICATION] - 4.0
 2022-04-18T15:43:45,608 [Calc.java] [INFO] calc.Calc [MULTIPLICATION] - 2.1, 3.2
 2022-04-18T15:43:45,608 [Calc.java] [INFO] calc.Calc [RESULT - MULTIPLICATION] - 6.720000000000001
+2022-04-18T16:44:55,706 [Calc.java] [INFO] calc.Calc [ADDITION] - 2.0, 2.0
+2022-04-18T16:44:55,709 [Calc.java] [INFO] calc.Calc [RESULT - ADDITION] - 4.0
+2022-04-18T16:44:55,709 [Calc.java] [INFO] calc.Calc [ADDITION] - 2.1, 3.2
+2022-04-18T16:44:55,710 [Calc.java] [INFO] calc.Calc [RESULT - ADDITION] - 5.300000000000001
+2022-04-18T16:44:55,710 [Calc.java] [INFO] calc.Calc [DIVISION] - 2.0, 2.0
+2022-04-18T16:44:55,710 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - 1.0
+2022-04-18T16:44:55,711 [Calc.java] [INFO] calc.Calc [DIVISION] - 0.0, 0.0
+2022-04-18T16:44:55,711 [Calc.java] [ERROR] calc.Calc [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+2022-04-18T16:44:55,711 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - NaN
+2022-04-18T16:44:55,714 [Calc.java] [INFO] calc.Calc [DIVISION] - 1.0, 0.0
+2022-04-18T16:44:55,714 [Calc.java] [ERROR] calc.Calc [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+2022-04-18T16:44:55,714 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - Infinity
+2022-04-18T16:44:55,714 [Calc.java] [INFO] calc.Calc [DIVISION] - -1.0, 0.0
+2022-04-18T16:44:55,714 [Calc.java] [ERROR] calc.Calc [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+2022-04-18T16:44:55,715 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - -Infinity
+2022-04-18T16:44:55,715 [Calc.java] [INFO] calc.Calc [MULTIPLICATION] - 2.0, 2.0
+2022-04-18T16:44:55,715 [Calc.java] [INFO] calc.Calc [RESULT - MULTIPLICATION] - 4.0
+2022-04-18T16:44:55,715 [Calc.java] [INFO] calc.Calc [MULTIPLICATION] - 2.1, 3.2
+2022-04-18T16:44:55,715 [Calc.java] [INFO] calc.Calc [RESULT - MULTIPLICATION] - 6.720000000000001
+2022-04-18T16:44:55,716 [Calc.java] [INFO] calc.Calc [SUBTRACTION] - 2.0, 2.0
+2022-04-18T16:44:55,716 [Calc.java] [INFO] calc.Calc [RESULT - SUBTRACTION] - 0.0
+2022-04-18T16:44:55,716 [Calc.java] [INFO] calc.Calc [SUBTRACTION] - 2.1, 3.2
+2022-04-18T16:44:55,716 [Calc.java] [INFO] calc.Calc [RESULT - SUBTRACTION] - -1.1
+2022-04-18T16:44:55,717 [Calc.java] [INFO] calc.Calc [ADDITION] - 2.0, 2.0
+2022-04-18T16:44:55,717 [Calc.java] [INFO] calc.Calc [RESULT - ADDITION] - 4.0
+2022-04-18T16:44:55,717 [Calc.java] [INFO] calc.Calc [ADDITION] - 2.1, 3.2
+2022-04-18T16:44:55,717 [Calc.java] [INFO] calc.Calc [RESULT - ADDITION] - 5.300000000000001
+2022-04-18T16:44:55,717 [Calc.java] [INFO] calc.Calc [DIVISION] - 2.3, 1.3
+2022-04-18T16:44:55,717 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - 1.769230769230769
+2022-04-18T16:44:55,717 [Calc.java] [INFO] calc.Calc [DIVISION] - 0.0, 0.0
+2022-04-18T16:44:55,717 [Calc.java] [ERROR] calc.Calc [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+2022-04-18T16:44:55,717 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - NaN
+2022-04-18T16:44:55,718 [Calc.java] [INFO] calc.Calc [DIVISION] - 1.0, 0.0
+2022-04-18T16:44:55,718 [Calc.java] [ERROR] calc.Calc [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+2022-04-18T16:44:55,718 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - Infinity
+2022-04-18T16:44:55,718 [Calc.java] [INFO] calc.Calc [DIVISION] - -1.0, 0.0
+2022-04-18T16:44:55,718 [Calc.java] [ERROR] calc.Calc [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+2022-04-18T16:44:55,718 [Calc.java] [INFO] calc.Calc [RESULT - DIVISION] - -Infinity
+2022-04-18T16:44:55,719 [Calc.java] [INFO] calc.Calc [SUBTRACTION] - 2.0, 2.0
+2022-04-18T16:44:55,719 [Calc.java] [INFO] calc.Calc [RESULT - SUBTRACTION] - 0.0
+2022-04-18T16:44:55,719 [Calc.java] [INFO] calc.Calc [SUBTRACTION] - 2.1, 3.2
+2022-04-18T16:44:55,719 [Calc.java] [INFO] calc.Calc [RESULT - SUBTRACTION] - -1.1
+2022-04-18T16:44:55,719 [Calc.java] [INFO] calc.Calc [MULTIPLICATION] - 2.0, 2.0
+2022-04-18T16:44:55,720 [Calc.java] [INFO] calc.Calc [RESULT - MULTIPLICATION] - 4.0
+2022-04-18T16:44:55,720 [Calc.java] [INFO] calc.Calc [MULTIPLICATION] - 2.1, 3.2
+2022-04-18T16:44:55,720 [Calc.java] [INFO] calc.Calc [RESULT - MULTIPLICATION] - 6.720000000000001
